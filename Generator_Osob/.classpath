@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="x"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="/home/olaf/Desktop/Java_Projekt/Generator_Osob/jxls-2.4.7/dist/jxls-2.4.7.jar"/>
+	<classpathentry kind="lib" path="/home/olaf/Desktop/Java_Projekt/Generator_Osob/jxls-2.4.7/dist/jxls-jexcel-1.0.7.jar"/>
+	<classpathentry kind="lib" path="/home/olaf/Desktop/Java_Projekt/Generator_Osob/jxls-2.4.7/dist/jxls-poi-1.0.16.jar"/>
+	<classpathentry kind="lib" path="/home/olaf/Desktop/Java_Projekt/Generator_Osob/jxls-2.4.7/dist/jxls-reader-2.0.5.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
